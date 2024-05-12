@@ -1,0 +1,12 @@
+.filterInput {
+    padding: 10px;
+    border: 1px solid #c5c5c5;
+    
+}
+
+.filterTitle,
+.filterInput {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
